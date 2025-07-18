@@ -8,17 +8,33 @@ So, What's the future for Hackintosh? You might think, Hackintosh is dead, but t
 
 These are the main reasons why.
 
+
+
+<img width="639" height="92" alt="Captureinc" src="https://github.com/user-attachments/assets/413d318c-0fc7-4808-a4e4-ecc569c1035d" />
+
+
 A github user named ChefKissInc, made a repo https://github.com/ChefKissInc/QEMUAppleSilicon, it emulates APPLE SILICON for
 virtualizing iOS, but anyone can just fork it and make it for hackintosh! Seeing how hard the community tried already, someone will
 probably make a repo named like "AppleSiliconMacOS" in the future.
 
 
+
+<img width="824" height="342" alt="Capture" src="https://github.com/user-attachments/assets/2f2e0df4-67eb-4114-9cde-0b68145c7ddb" />
+
+
 Next reason is probably because, OpenCore Legacy Patcher, the Application that enables newer macOS running on older macs that 
 are not officially supported by Apple. You might think, "well! Intel MacOS won't be available! OpenCore Legacy Patcher cannot do anything!",
+
+![OpenCore-Legacy-Patcher_11](https://github.com/user-attachments/assets/4c4a70c3-d770-48b0-915f-115414cd1f44)
+
+
+
+
+
 actually, OpenCore Legacy Patcher might be able to do something! you see, since future macs will be with Apple Silicon, 
 OpenCore can just run a future version of macOS that supports Apple Silicon on future macs.
 
 
 # Conclusion:
 
-The future of Hackintosh is uncertain and likely limited. While some users are still running existing Hackintosh systems, the transition to Apple Silicon has made it increasingly difficult and potentially unsustainable to create new ones. Apple's move away from Intel processors means macOS is no longer designed to run on standard PC hardware, making the core component of Hackintosh setups obsolete but there is still 2 more suspected that I covered earlier.
+The future of Hackintosh is uncertain and likely limited. While some users are still running existing Hackintosh systems, the transition to Apple Silicon has made it increasingly difficult and potentially unsustainable to create new ones. Apple's move away from Intel processors means macOS is no longer designed to run on standard PC hardware, making the core component of Hackintosh setups obsolete but there is still 2 more suspected ways that I covered earlier.
