@@ -4,7 +4,7 @@ You probably have heard of macOS tahoe, and it is the last version of Intel Macs
 
 ![confirmed-macos-tahoe-is-the-final-major-release-for-intel-v0-hebv7vnydz5f1](https://github.com/user-attachments/assets/b3f7b887-cb4d-456f-8f4f-6513d1241c8e)
 
-So, What's the future for Hackintosh? You might think, Hackintosh is dead, but there is some hope for hackintosh still.
+So, What's the future for Hackintosh? You might think, Hackintosh will be dead, but there is some hope for hackintosh still.
 
 These are the main reasons why.
 
