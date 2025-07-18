@@ -19,7 +19,6 @@ actually, OpenCore Legacy Patcher might be able to do something! you see, since 
 OpenCore can just run a future version of macOS that supports Apple Silicon on future macs.
 
 
-Conclusion:
+# Conclusion:
 
-The future of Hackintosh is uncertain and likely limited. While some users are still running existing Hackintosh systems, the transition to Apple Silicon has made it increasingly difficult and potentially unsustainable to create new ones. Apple's move away from Intel processors means macOS is no longer designed to run on standard PC hardware, making the core component of Hackintosh setups obsolete. 
-but there is still 2 more loopways that I covered earlier.
+The future of Hackintosh is uncertain and likely limited. While some users are still running existing Hackintosh systems, the transition to Apple Silicon has made it increasingly difficult and potentially unsustainable to create new ones. Apple's move away from Intel processors means macOS is no longer designed to run on standard PC hardware, making the core component of Hackintosh setups obsolete but there is still 2 more loopways that I covered earlier.
