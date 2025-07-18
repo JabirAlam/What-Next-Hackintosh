@@ -25,7 +25,8 @@ probably make a repo named like "AppleSiliconMacOS" in the future.
 Next reason is probably because, OpenCore Legacy Patcher, the Application that enables newer macOS running on older macs that 
 are not officially supported by Apple. You might think, "well! Intel MacOS won't be available! OpenCore Legacy Patcher cannot do anything!",
 
-![OpenCore-Legacy-Patcher_11](https://github.com/user-attachments/assets/4c4a70c3-d770-48b0-915f-115414cd1f44)
+<img width="377" height="211" alt="CaptureGUIOCLP" src="https://github.com/user-attachments/assets/4c06f790-789a-4046-99aa-3d62c1c9e3c8" />
+
 
 
 
