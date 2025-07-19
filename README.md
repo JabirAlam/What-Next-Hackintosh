@@ -1,4 +1,4 @@
-# What-is-next-for-Hackintosh?
+# What is next for Hackintosh?
 
 You probably have heard of macOS tahoe, and it is the last version of Intel Macs confirmed officially by Apple.
 
