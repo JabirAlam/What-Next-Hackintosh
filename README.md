@@ -44,5 +44,9 @@ The future of Hackintosh is uncertain and likely limited. While some users are s
 # Credits:
 
 Apple for macOS,
+
+
 Dortania for the OpenCore Legacy Patcher,
+
+
 ChefKissInc for https://github.com/ChefKissInc/QEMUAppleSilicon.
