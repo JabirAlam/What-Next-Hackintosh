@@ -32,8 +32,8 @@ are not officially supported by Apple. You might think, "well! Intel MacOS won't
 
 
 
-actually, OpenCore Legacy Patcher might be able to do something! you see, since future macs will be with Apple Silicon, 
-OpenCore can just run a future version of macOS that supports Apple Silicon on future macs.
+actually, OpenCore Legacy Patcher might be able to do something! you see, since future macs will be with Apple Silicon,
+OpenCore can just run a future version of macOS that supports Apple Silicon on future macs. If the OpenCore Legacy Patcher Developers configure it to do so, unless no hope with OpenCore Legacy Patcher.
 
 
 # Conclusion:
